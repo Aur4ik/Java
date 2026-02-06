@@ -234,6 +234,7 @@ static int calcDamage(Hero hero, Monster monster){
 
             if (monster.hp <= 0) {
                 System.out.println("Ты победил!");
+                hero.hp = hero.maxHp;
                 hero.coins += 20;
                 return;
             }
