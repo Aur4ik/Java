@@ -1,4 +1,4 @@
-package seven;
+package seven.Employes;
 
 class Developer extends Employee {
     private String programmingLanguage;

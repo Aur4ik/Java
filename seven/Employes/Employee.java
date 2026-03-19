@@ -1,4 +1,4 @@
-package seven;
+package seven.Employes;
 
 abstract class Employee {
     private int id;

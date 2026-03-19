@@ -1,4 +1,4 @@
-package seven;
+package seven.Employes;
 
 class Designer extends Employee {
     private String designTool;

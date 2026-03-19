@@ -1,4 +1,4 @@
-package seven;
+package seven.Employes;
 
 class Manager extends Employee {
     private int teamSize;

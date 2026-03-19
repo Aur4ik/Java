@@ -1,4 +1,4 @@
-package seven;
+package seven.Employes;
 public class Main {
     public static void main(String[] args) {
 
